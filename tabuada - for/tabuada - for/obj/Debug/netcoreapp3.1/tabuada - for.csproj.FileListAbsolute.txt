@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\bin\Debug\netcoreapp3.1\tabuada - for.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\bin\Debug\netcoreapp3.1\tabuada - for.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\bin\Debug\netcoreapp3.1\tabuada - for.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\bin\Debug\netcoreapp3.1\tabuada - for.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\bin\Debug\netcoreapp3.1\tabuada - for.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\bin\Debug\netcoreapp3.1\tabuada - for.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\obj\Debug\netcoreapp3.1\tabuada - for.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\obj\Debug\netcoreapp3.1\tabuada - for.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\obj\Debug\netcoreapp3.1\tabuada - for.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\obj\Debug\netcoreapp3.1\tabuada - for.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\obj\Debug\netcoreapp3.1\tabuada - for.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\obj\Debug\netcoreapp3.1\tabuada - for.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada - for\tabuada - for\obj\Debug\netcoreapp3.1\tabuada - for.genruntimeconfig.cache

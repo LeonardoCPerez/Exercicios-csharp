@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "média de altura - alunos/1.0.0": {
+        "runtime": {
+          "média de altura - alunos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "média de altura - alunos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\bin\Debug\netcoreapp3.1\Número pares.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\bin\Debug\netcoreapp3.1\Número pares.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\bin\Debug\netcoreapp3.1\Número pares.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\bin\Debug\netcoreapp3.1\Número pares.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\bin\Debug\netcoreapp3.1\Número pares.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\bin\Debug\netcoreapp3.1\Número pares.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\obj\Debug\netcoreapp3.1\Número pares.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\obj\Debug\netcoreapp3.1\Número pares.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\obj\Debug\netcoreapp3.1\Número pares.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\obj\Debug\netcoreapp3.1\Número pares.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\obj\Debug\netcoreapp3.1\Número pares.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\obj\Debug\netcoreapp3.1\Número pares.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Número pares\Número pares\obj\Debug\netcoreapp3.1\Número pares.genruntimeconfig.cache

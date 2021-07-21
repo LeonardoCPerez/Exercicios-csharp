@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.genruntimeconfig.cache

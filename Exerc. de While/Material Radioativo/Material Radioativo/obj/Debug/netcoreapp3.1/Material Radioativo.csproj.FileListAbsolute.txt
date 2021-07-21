@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\bin\Debug\netcoreapp3.1\Material Radioativo.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\bin\Debug\netcoreapp3.1\Material Radioativo.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\bin\Debug\netcoreapp3.1\Material Radioativo.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\bin\Debug\netcoreapp3.1\Material Radioativo.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\bin\Debug\netcoreapp3.1\Material Radioativo.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\bin\Debug\netcoreapp3.1\Material Radioativo.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\obj\Debug\netcoreapp3.1\Material Radioativo.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\obj\Debug\netcoreapp3.1\Material Radioativo.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\obj\Debug\netcoreapp3.1\Material Radioativo.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\obj\Debug\netcoreapp3.1\Material Radioativo.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\obj\Debug\netcoreapp3.1\Material Radioativo.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\obj\Debug\netcoreapp3.1\Material Radioativo.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Material Radioativo\Material Radioativo\obj\Debug\netcoreapp3.1\Material Radioativo.genruntimeconfig.cache

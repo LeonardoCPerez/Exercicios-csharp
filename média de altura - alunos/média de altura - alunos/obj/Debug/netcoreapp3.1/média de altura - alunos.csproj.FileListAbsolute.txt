@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\bin\Debug\netcoreapp3.1\média de altura - alunos.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\bin\Debug\netcoreapp3.1\média de altura - alunos.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\bin\Debug\netcoreapp3.1\média de altura - alunos.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\bin\Debug\netcoreapp3.1\média de altura - alunos.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\bin\Debug\netcoreapp3.1\média de altura - alunos.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\bin\Debug\netcoreapp3.1\média de altura - alunos.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\obj\Debug\netcoreapp3.1\média de altura - alunos.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\obj\Debug\netcoreapp3.1\média de altura - alunos.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\obj\Debug\netcoreapp3.1\média de altura - alunos.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\obj\Debug\netcoreapp3.1\média de altura - alunos.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\obj\Debug\netcoreapp3.1\média de altura - alunos.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\obj\Debug\netcoreapp3.1\média de altura - alunos.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\média de altura - alunos\média de altura - alunos\obj\Debug\netcoreapp3.1\média de altura - alunos.genruntimeconfig.cache

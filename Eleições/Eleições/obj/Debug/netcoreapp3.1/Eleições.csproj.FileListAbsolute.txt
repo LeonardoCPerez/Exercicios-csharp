@@ -1,0 +1,26 @@
+C:\Users\Leonardo\source\repos\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.exe
+C:\Users\Leonardo\source\repos\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.deps.json
+C:\Users\Leonardo\source\repos\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.runtimeconfig.json
+C:\Users\Leonardo\source\repos\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.runtimeconfig.dev.json
+C:\Users\Leonardo\source\repos\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.dll
+C:\Users\Leonardo\source\repos\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.pdb
+C:\Users\Leonardo\source\repos\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.dll
+C:\Users\Leonardo\source\repos\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.pdb
+C:\Users\Leonardo\source\repos\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.genruntimeconfig.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\bin\Debug\netcoreapp3.1\Eleições.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Eleições\Eleições\obj\Debug\netcoreapp3.1\Eleições.genruntimeconfig.cache

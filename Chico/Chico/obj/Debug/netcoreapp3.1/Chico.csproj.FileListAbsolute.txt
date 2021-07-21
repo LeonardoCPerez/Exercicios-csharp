@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\bin\Debug\netcoreapp3.1\Chico.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\bin\Debug\netcoreapp3.1\Chico.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\bin\Debug\netcoreapp3.1\Chico.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\bin\Debug\netcoreapp3.1\Chico.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\bin\Debug\netcoreapp3.1\Chico.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\bin\Debug\netcoreapp3.1\Chico.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\obj\Debug\netcoreapp3.1\Chico.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\obj\Debug\netcoreapp3.1\Chico.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\obj\Debug\netcoreapp3.1\Chico.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\obj\Debug\netcoreapp3.1\Chico.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\obj\Debug\netcoreapp3.1\Chico.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\obj\Debug\netcoreapp3.1\Chico.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\Chico\Chico\obj\Debug\netcoreapp3.1\Chico.genruntimeconfig.cache

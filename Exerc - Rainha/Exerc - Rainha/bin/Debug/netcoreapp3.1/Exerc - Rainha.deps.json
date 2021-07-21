@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exerc - Rainha/1.0.0": {
+        "runtime": {
+          "Exerc - Rainha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exerc - Rainha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

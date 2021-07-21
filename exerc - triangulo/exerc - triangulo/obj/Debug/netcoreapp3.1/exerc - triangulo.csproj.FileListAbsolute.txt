@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\bin\Debug\netcoreapp3.1\exerc - triangulo.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\bin\Debug\netcoreapp3.1\exerc - triangulo.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\bin\Debug\netcoreapp3.1\exerc - triangulo.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\bin\Debug\netcoreapp3.1\exerc - triangulo.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\bin\Debug\netcoreapp3.1\exerc - triangulo.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\bin\Debug\netcoreapp3.1\exerc - triangulo.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\obj\Debug\netcoreapp3.1\exerc - triangulo.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\obj\Debug\netcoreapp3.1\exerc - triangulo.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\obj\Debug\netcoreapp3.1\exerc - triangulo.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\obj\Debug\netcoreapp3.1\exerc - triangulo.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\obj\Debug\netcoreapp3.1\exerc - triangulo.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\obj\Debug\netcoreapp3.1\exerc - triangulo.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\exerc - triangulo\exerc - triangulo\obj\Debug\netcoreapp3.1\exerc - triangulo.genruntimeconfig.cache

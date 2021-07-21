@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\bin\Debug\netcoreapp3.1\Exerc - Rainha.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\bin\Debug\netcoreapp3.1\Exerc - Rainha.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\bin\Debug\netcoreapp3.1\Exerc - Rainha.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\bin\Debug\netcoreapp3.1\Exerc - Rainha.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\bin\Debug\netcoreapp3.1\Exerc - Rainha.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\bin\Debug\netcoreapp3.1\Exerc - Rainha.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\obj\Debug\netcoreapp3.1\Exerc - Rainha.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\obj\Debug\netcoreapp3.1\Exerc - Rainha.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\obj\Debug\netcoreapp3.1\Exerc - Rainha.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\obj\Debug\netcoreapp3.1\Exerc - Rainha.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\obj\Debug\netcoreapp3.1\Exerc - Rainha.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\obj\Debug\netcoreapp3.1\Exerc - Rainha.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc - Rainha\Exerc - Rainha\obj\Debug\netcoreapp3.1\Exerc - Rainha.genruntimeconfig.cache

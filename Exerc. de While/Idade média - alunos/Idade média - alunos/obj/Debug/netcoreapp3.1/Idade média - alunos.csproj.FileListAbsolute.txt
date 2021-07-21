@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\bin\Debug\netcoreapp3.1\Idade média - alunos.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\bin\Debug\netcoreapp3.1\Idade média - alunos.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\bin\Debug\netcoreapp3.1\Idade média - alunos.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\bin\Debug\netcoreapp3.1\Idade média - alunos.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\bin\Debug\netcoreapp3.1\Idade média - alunos.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\bin\Debug\netcoreapp3.1\Idade média - alunos.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\obj\Debug\netcoreapp3.1\Idade média - alunos.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\obj\Debug\netcoreapp3.1\Idade média - alunos.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\obj\Debug\netcoreapp3.1\Idade média - alunos.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\obj\Debug\netcoreapp3.1\Idade média - alunos.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\obj\Debug\netcoreapp3.1\Idade média - alunos.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\obj\Debug\netcoreapp3.1\Idade média - alunos.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\Exerc. de While\Idade média - alunos\Idade média - alunos\obj\Debug\netcoreapp3.1\Idade média - alunos.genruntimeconfig.cache

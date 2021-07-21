@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\bin\Debug\netcoreapp3.1\hotel.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\junho\hotel\hotel\obj\Debug\netcoreapp3.1\hotel.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\bin\Debug\netcoreapp3.1\soma e media.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\bin\Debug\netcoreapp3.1\soma e media.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\bin\Debug\netcoreapp3.1\soma e media.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\bin\Debug\netcoreapp3.1\soma e media.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\bin\Debug\netcoreapp3.1\soma e media.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\bin\Debug\netcoreapp3.1\soma e media.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\obj\Debug\netcoreapp3.1\soma e media.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\obj\Debug\netcoreapp3.1\soma e media.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\obj\Debug\netcoreapp3.1\soma e media.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\obj\Debug\netcoreapp3.1\soma e media.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\obj\Debug\netcoreapp3.1\soma e media.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\obj\Debug\netcoreapp3.1\soma e media.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\soma e media\soma e media\obj\Debug\netcoreapp3.1\soma e media.genruntimeconfig.cache

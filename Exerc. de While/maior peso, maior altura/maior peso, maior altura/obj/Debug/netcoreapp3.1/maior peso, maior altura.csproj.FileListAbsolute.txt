@@ -1,0 +1,13 @@
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\bin\Debug\netcoreapp3.1\maior peso, maior altura.exe
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\bin\Debug\netcoreapp3.1\maior peso, maior altura.deps.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\bin\Debug\netcoreapp3.1\maior peso, maior altura.runtimeconfig.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\bin\Debug\netcoreapp3.1\maior peso, maior altura.runtimeconfig.dev.json
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\bin\Debug\netcoreapp3.1\maior peso, maior altura.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\bin\Debug\netcoreapp3.1\maior peso, maior altura.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\obj\Debug\netcoreapp3.1\maior peso, maior altura.csprojAssemblyReference.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\obj\Debug\netcoreapp3.1\maior peso, maior altura.AssemblyInfoInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\obj\Debug\netcoreapp3.1\maior peso, maior altura.AssemblyInfo.cs
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\obj\Debug\netcoreapp3.1\maior peso, maior altura.csproj.CoreCompileInputs.cache
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\obj\Debug\netcoreapp3.1\maior peso, maior altura.dll
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\obj\Debug\netcoreapp3.1\maior peso, maior altura.pdb
+C:\Arquivos - Área de trabalho\Estudos\Escola - Etec\PROGRAMAÇÃO E ALGORITIMOS (BIDU)\maior peso, maior altura\maior peso, maior altura\obj\Debug\netcoreapp3.1\maior peso, maior altura.genruntimeconfig.cache
